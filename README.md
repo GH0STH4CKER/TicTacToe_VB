@@ -9,4 +9,4 @@ Double-click **tictactoe.exe** file
 
 <h2> Screenshot </h2>
 
-<img src="https://raw.githubusercontent.com/GH0STH4CKER/TicTacToe_VB/main/tictactoe_screenshot.png" width=600 >
+<img src="https://raw.githubusercontent.com/GH0STH4CKER/TicTacToe_VB/main/tictactoe_screenshot.png" width=400 >
