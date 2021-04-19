@@ -5,7 +5,7 @@ TicTacToe GUI Game I made using visual basic .net (Working in Windows Only)
 Dot Net Framework 4 or higher
 
 <h2> Running </h2>
-Double-click **tictactoe.exe** file
+Double-click <strong>tictactoe.exe</strong> file
 
 <h2> Screenshot </h2>
 
